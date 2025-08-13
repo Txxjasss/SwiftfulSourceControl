@@ -35,13 +35,10 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Swiftful Thinkingggg!!!")
             
-            Button("Subscribe") {
+            Button("Subscribe now!") {
                 
             }
-            
-            Button("Click me!") {
-                
-            }
+           
         }
         .padding()
     }
